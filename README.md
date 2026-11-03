@@ -27,17 +27,22 @@ A production-ready **Retrieval-Augmented Generation (RAG)** application that all
    ```bash
    git clone https://github.com/Chaudhary-Momna/RAG-PDF-Chatbot.git
    cd RAG-PDF-Chatbot
-
 2.Create a virtual environment & install dependencies:
+
 python -m venv venv
+
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+
 pip install -r requirements.txt
+
 
 3.Set up Environment Variables:
 Create a .env file in the root directory and add your Groq API key:
+
 GROQ_API_KEY="your_groq_api_key_here"
 
 4.Run the application:
+
 streamlit run app.py
 
 👨‍💻 Author
