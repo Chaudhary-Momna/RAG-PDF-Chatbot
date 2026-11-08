@@ -2,7 +2,7 @@
 
 A production-ready **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and ask questions based on their content. The AI strictly answers using the provided document context, eliminating hallucinations.
 
-🎥 **Demo Video:** [Click here to watch the video](https://youtu.be/8jExkyvAkRE)
+🎥 **Demo Video:** [Click here to watch the video](https://youtu.be/85dIkpZm6hQ)
 
 ## 🔗 Live Demo
 👉 **[Click here to view the Live App](https://rag-pdf-chatbot-01.streamlit.app/)**
