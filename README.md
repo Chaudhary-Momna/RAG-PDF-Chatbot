@@ -52,5 +52,4 @@ Chaudhary Momna
 
 GitHub: @Chaudhary-Momna
 
-LinkedIn: Chaudhary Momna
 
